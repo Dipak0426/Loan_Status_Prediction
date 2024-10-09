@@ -1,1 +1,1 @@
-# Loan_Status_Prediction
+ This project predicts the loan approval status based on applicant data using a Support Vector Machine (SVM) model. The dataset contains features like income, education, credit history, and more. The project involves data preprocessing, feature engineering, model training, and evaluation. The model's performance is measured using accuracy and other relevant metrics.
